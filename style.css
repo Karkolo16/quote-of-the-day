@@ -1,8 +1,7 @@
 body{
     font-family: 'Albert Sans', sans-serif;
-    background-color: rgb(218, 247, 251);
+    background-image: url("images/2.jpg");
 }
-
 .btn{
     border:10px solid green;
     background-color: green;
@@ -21,6 +20,7 @@ body{
 
 .quote{
     text-align: center;
+
 }
 h1{
     margin: auto;
